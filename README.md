@@ -23,3 +23,4 @@ I chose to build this project in C++ for the learning experience. I have wanted 
 ## Why Qt?
 I chose to use Qt as the GUI framework because of its expansive documentation. There is almost no other C++ GUI library out there with documentation as good as Qt. Qt's documentation has made it a lot easier learning how to program GUI's with C++. 
 # Binary-Search-Tree-Qt
+# Binary-Search-Tree-Qt

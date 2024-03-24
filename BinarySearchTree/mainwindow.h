@@ -1,10 +1,3 @@
-/*
- * Binary Search Tree Visualization
- * Ashland University
- * Nathan Ahrens
- * Summer 2017
- */
-
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 

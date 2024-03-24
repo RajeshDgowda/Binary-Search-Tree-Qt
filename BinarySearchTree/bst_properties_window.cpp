@@ -1,12 +1,3 @@
-/*
- * Binary Search Tree Visualization
- * Ashland University
- * Nathan Ahrens
- * Summer 2017
- *
- * This class is for the properties window - displays the various properties of the BST which is being displayed.
- */
-
 #include "bst_properties_window.h"
 #include <iostream>
 #include <QScrollArea>

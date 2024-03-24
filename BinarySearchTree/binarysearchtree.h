@@ -1,9 +1,4 @@
 /*
- * Binary Search Tree Visualization
- * Ashland University
- * Nathan Ahrens
- * Summer 2017
- *
  * Creation process:
  * This class is the BST and Node. This was built using a standard BST (from a C++ book),
  * but has been heavily modified to fit the needs of visualizing a BST. Some functions

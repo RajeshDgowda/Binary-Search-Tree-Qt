@@ -1,12 +1,3 @@
-/*
- * Binary Search Tree Visualization
- * Ashland University
- * Nathan Ahrens
- * Summer 2017
- *
- * This class is the main window - the GUI is build in this class and any other classes involved begin from this class.
- */
-
 #include "mainwindow.h"
 #include "bst_about_window.h"
 #include <QVBoxLayout>
